@@ -1,1 +1,1 @@
-Government documents in the English language will be here.
+Government documents in the Esperanto language will be here.
