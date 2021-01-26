@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="100mm"
+   viewBox="0 0 300 100"
+   version="1.1"
+   id="svg769"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="MedalOfIntegrity.svg"
+   inkscape:export-filename="D:\Docs\unitedvuaqava\Medals\Military &amp; Police\Breastbars\MedalOfIntegrity.svg.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254">
+  <defs
+     id="defs763">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         style="stop-color:white;stop-opacity:0.3137255;"
+         offset="0"
+         id="stop2895" />
+      <stop
+         id="stop2897"
+         offset="0.19"
+         style="stop-color:white;stop-opacity:0.25098041;" />
+      <stop
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902;"
+         offset="0.60000002"
+         id="stop2901" />
+      <stop
+         style="stop-color:black;stop-opacity:0.1254902;"
+         offset="1"
+         id="stop2899" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-905.47363"
+     inkscape:cy="1463.5809"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1227"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata766">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.99;fill:#67007f;fill-opacity:0.98431373;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-opacity:0"
+       id="rect785"
+       width="300"
+       height="100"
+       x="0"
+       y="0" />
+    <rect
+       style="opacity:0.99;fill:#d2a703;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-opacity:0"
+       id="rect787-3"
+       width="100"
+       height="100"
+       x="200"
+       y="0" />
+    <g
+       inkscape:label="Layer 1"
+       id="layer1-7"
+       transform="translate(-213.85681,-228.66768)">
+      <g
+         id="layer2"
+         inkscape:label="Meubles"
+         transform="matrix(0.26458333,0,0,0.26458333,-8e-6,9.6370016e-5)" />
+      <g
+         id="g2330"
+         transform="matrix(1.1318685,0,0,1.1309871,-119.78037,-492.13262)" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.99;fill:#87de87;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-opacity:0"
+       id="path804"
+       sodipodi:sides="8"
+       sodipodi:cx="149.99999"
+       sodipodi:cy="50.000001"
+       sodipodi:r1="33.444809"
+       sodipodi:r2="13.377924"
+       sodipodi:arg1="-2.3561945"
+       sodipodi:arg2="-1.9634954"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="1.8897637e-06"
+       d="M 126.35093,26.350949 144.88047,37.64041 149.99998,16.555191 155.11949,37.64041 173.64904,26.350949 162.35957,44.88049 183.44479,50 162.35957,55.11951 173.64904,73.649051 155.11949,62.35959 149.99999,83.444809 144.88047,62.35959 126.35093,73.649051 137.64039,55.11951 116.55518,50 137.64039,44.88049 Z" />
+    <rect
+       style="opacity:0.99;fill:#d2a703;fill-opacity:1;stroke:#000000;stroke-width:0.865;stroke-linecap:round;stroke-opacity:0"
+       id="rect787"
+       width="100"
+       height="100"
+       x="0"
+       y="0" />
+  </g>
+</svg>
