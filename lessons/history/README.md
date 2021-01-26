@@ -1,1 +1,1 @@
-History lessons from the University will be here for reference.
+A record of History lessons will be kept here.
