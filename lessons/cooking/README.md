@@ -1,1 +1,1 @@
-Cooking lessons from the University will be uploaded here.
+A record of Cooking lessons will be kept here.
